@@ -25,3 +25,9 @@ Create CSV of Beta Values from changed Probes (EPICv2).r :
 Read all Idat Files in a directory with either EPIC v1 or EPIC v2 IDAT files.
 Extract the changed Probes by Index and safe in a Df.
 Save the DF as a csv for ploting and analysis.
+R: 4.3.2
+Bioconductor: 3.18
+sesame: 1.20.0
+sesameData: 1.20.0
+ExperimentHub: 2.10.0
+tidyverse 2.0.0
